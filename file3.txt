@@ -1,2 +1,4 @@
 file3
+another change
+and new line
 eof
